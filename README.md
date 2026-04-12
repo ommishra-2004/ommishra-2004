@@ -3,7 +3,7 @@ I'm Om Mishra a MCA student at the **Veermata Jijabai Technological Institute (V
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=MCA+Student+at+VJTI;Full+Stack+Developer;GenAI+and+RAG+Enthusiast;Chess+Player" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=First+Year+MCA+Student+at+VJTI;Python+Full+Stack+Developer;GenAI+and+RAG+Enthusiast;Chess+Playing" alt="Typing SVG" />
   </a>
 </h1>
 
